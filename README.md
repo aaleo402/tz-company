@@ -1,4 +1,5 @@
-###How to start the project
+### How to start the project
+
 ```
 yarn install
 yarn start
