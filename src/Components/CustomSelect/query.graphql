@@ -1,0 +1,17 @@
+query getApplicantIndividualCompanyRelations {
+  applicantIndividualCompanyRelations {
+    data {
+      id
+      name
+    }
+  }
+}
+
+query getApplicantIndividualCompanyPositions {
+  applicantIndividualCompanyPositions {
+    data {
+      id
+      name
+    }
+  }
+}
